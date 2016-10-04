@@ -3,8 +3,8 @@
     "ast": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12411 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "ast"
       },
@@ -42,18 +42,18 @@
                   "12": "12"
                 },
                 "wide": {
-                  "1": "Chaitra",
-                  "2": "Vaisakha",
-                  "3": "Jyaistha",
-                  "4": "Asadha",
-                  "5": "Sravana",
-                  "6": "Bhadra",
-                  "7": "Asvina",
-                  "8": "Kartika",
-                  "9": "Agrahayana",
-                  "10": "Pausa",
-                  "11": "Magha",
-                  "12": "Phalguna"
+                  "1": "de Chaitra",
+                  "2": "de Vaisakha",
+                  "3": "de Jyaistha",
+                  "4": "d’Asadha",
+                  "5": "de Sravana",
+                  "6": "de Bhadra",
+                  "7": "d’Asvina",
+                  "8": "de Kartika",
+                  "9": "d’Agrahayana",
+                  "10": "de Pausa",
+                  "11": "de Magha",
+                  "12": "de Phalguna"
                 }
               },
               "stand-alone": {
@@ -233,7 +233,7 @@
                 },
                 "wide": {
                   "am": "de la mañana",
-                  "pm": "de la tardi"
+                  "pm": "de la tarde"
                 }
               },
               "stand-alone": {
@@ -247,7 +247,7 @@
                 },
                 "wide": {
                   "am": "mañana",
-                  "pm": "tardi"
+                  "pm": "tarde"
                 }
               }
             },
